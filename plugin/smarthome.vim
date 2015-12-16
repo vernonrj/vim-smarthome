@@ -6,6 +6,4 @@ function! SmartLineBegin()
     endif
 endfunction
 
-nnoremap <silent> 0 :call SmartLineBegin()<CR>
-nnoremap <Home> g0
 
